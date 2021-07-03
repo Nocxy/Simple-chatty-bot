@@ -1,1 +1,1 @@
-# Simple-chatty-bot
+Just a simple chatty bot to practice Java
